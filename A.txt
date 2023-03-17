@@ -2,5 +2,6 @@ hi
 hello
 how are you?
 haha im fine
+change 2 - added from master
 added from testbranch
 change 1
